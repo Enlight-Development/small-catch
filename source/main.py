@@ -11,9 +11,9 @@ from time import sleep
 import threading
 from machine import I2C, Pin
 from machine_i2c_lcd import I2cLcd
-DEFAULT_I2C_ADDR = 0x3F
+DEFAULT_I2C_ADDR = 0x27
 i2c = I2C(0, scl=Pin(1), sda=Pin(0), freq=400000)
-lcd = I2cLcd(i2c, DEFAULT_I2C_ADDR, 2, 16)
+lcd = I2cLcd(i2c, DEFAULT_I2C_ADDR, 4, 20)
 
 led_onboard = machine.Pin("LED", machine.Pin.OUT)
 
