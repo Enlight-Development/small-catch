@@ -1,9 +1,13 @@
 # Small Catch
+
 A project for users of the raspberry pi pico w to have a small hacking pet.
 
-## Small catch: the small fake AP 
-Much like a pwnagotchi, except feeding off wifi and bluetooth connections instead of handshakes. It uses a small 16x2 LCD with faces, each one conveying an action it is doing, much like a pwnagotchi. It cycles through a list of AP names, and can copy common AP names(ex: McDonald's Free WiFi). 
+## Small catch: the small fake AP
+
+Much like a pwnagotchi, except feeding off wifi and bluetooth connections instead of handshakes. It uses a small 16x2 LCD with faces, each one conveying an action it is doing, much like a pwnagotchi. It cycles through a list of AP names, and can copy common AP names(ex: McDonald's Free WiFi).
+
 ### Hardware
+
 - Raspberry Pi Pico W
 
 **Link: TBA**
@@ -12,7 +16,6 @@ Much like a pwnagotchi, except feeding off wifi and bluetooth connections instea
 
 **Link: TBA**
 
-###
 ### Install guide
 
 Navigate to the install folder
@@ -31,7 +34,6 @@ Replug your RPI in and it should be working. If it is not then please navigate t
 
 Set the value to the address of your 16x2 LCD Display.
 
-###
 ### Circuits
 
 Display GND - > RPI Pin 38
@@ -42,35 +44,41 @@ Display SDA - > RPI Pin 1
 
 Display SCL - > RPI Pin 2
 
-###
 ### Emotions, and what they mean
 
 ## (^-^)
+
 Excited, too many connections!
 
 ## (-_-)
-Sleepy, eyes closed and wants to sleep. Or atleast go back to sleep.
+
+Sleepy, eyes closed and wants to sleep. Or at least go back to sleep.
 
 ## (o_o)
+
 Surprised, a lot of traffic may be occuring on its wifi or bluetooth connections (+10)
 
 ## (._.)
+
 Neutral, not happy or sad. Ready to feast on user agents and connections.
 
 ## (0-0)
+
 Happy, a connection is on its bluetooth or wifi.
 
 ## (p-p)
+
 Crying, sad that no one wants to connect to it.
 
 ## (0o0)
+
 Eating, its feasting on connections and user agents.
 
 ## (-O-)
+
 Hangry, its angry because its hungry.
 
 ## (-.-)
+
 Hungry, feed him or he will either get mad or sad.
 
-###
-#
