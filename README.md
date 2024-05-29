@@ -1,10 +1,10 @@
 # Small Catch
 
-A project for users of the raspberry pi pico w to have a small hacking pet.
+A project for users of the Raspberry Pi Pico w to have a small hacking pet.
 
 ## Small catch: the small fake AP
 
-Much like a pwnagotchi, except feeding off wifi and bluetooth connections instead of handshakes. It uses a small 16x2 LCD with faces, each one conveying an action it is doing, much like a pwnagotchi. It cycles through a list of AP names, and can copy common AP names(ex: McDonald's Free WiFi).
+Much like a pwnagotchi, except feeding off wifi and Bluetooth connections instead of handshakes. It uses a small 16x2 LCD with faces, each one conveying an action it is doing, much like a pwnagotchi. It cycles through a list of AP names, and can copy common AP names(ex: McDonald's Free WiFi).
 
 ### Hardware
 
@@ -12,7 +12,7 @@ Much like a pwnagotchi, except feeding off wifi and bluetooth connections instea
 
 **Link: TBA**
 
-- 16x2 LCD Screen
+- 20x4 LCD Screen
 
 **Link: TBA**
 
@@ -52,11 +52,11 @@ Excited, too many connections!
 
 ## (-_-)
 
-Sleepy, eyes closed and wants to sleep. Or at least go back to sleep.
+Sleepy, eyes closed, and wants to sleep. Or at least go back to sleep.
 
 ## (o_o)
 
-Surprised, a lot of traffic may be occuring on its wifi or bluetooth connections (+10)
+Surprised, a lot of traffic may be occurring on its wifi or Bluetooth connections (+10)
 
 ## (._.)
 
@@ -64,7 +64,7 @@ Neutral, not happy or sad. Ready to feast on user agents and connections.
 
 ## (0-0)
 
-Happy, a connection is on its bluetooth or wifi.
+Happy, a connection is on its Bluetooth or wifi.
 
 ## (p-p)
 
@@ -72,11 +72,11 @@ Crying, sad that no one wants to connect to it.
 
 ## (0o0)
 
-Eating, its feasting on connections and user agents.
+Eating is feasting on connections and user agents.
 
 ## (-O-)
 
-Hangry, its angry because its hungry.
+Hangry, it's angry because it's hungry.
 
 ## (-.-)
 
